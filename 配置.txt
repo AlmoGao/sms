@@ -1,0 +1,11 @@
+
+
+1. pip install Flask
+2. pip install requests
+3. pip install ronglian_sms_sdk
+4. pip install schedule
+
+5. 	set FLASK_APP=flaskr
+	set FLASK_ENV=development
+	flask init-db
+	flask run

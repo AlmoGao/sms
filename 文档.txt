@@ -1,0 +1,11 @@
+
+备用网址：http://huigesms.com/#/merchantLogin
+账号：344kyy    Wewe2323
+
+
+接口：
+https://www.showdoc.com.cn/SMSHTTPAPIDoc/6314765591133120
+
+
+短信接口：
+http://doc.yuntongxun.com/p/5a533de33b8496dd00dce07c
